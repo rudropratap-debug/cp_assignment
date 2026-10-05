@@ -1,0 +1,1 @@
+{"name":"Local: chef_plays_ludo","url":"/home/rudro-pratap-sharma/cp_assignment/chef_plays_ludo.cpp","tests":[{"id":1791220430742,"input":"3\n1\n6\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rudro-pratap-sharma/cp_assignment/chef_plays_ludo.cpp","group":"local","local":true}
